@@ -11,7 +11,7 @@ DFRL:NewDefaults("Player", {
     noPercent = {true, "checkbox", nil, "textShow", "Text", 9, "Show only current values without percentages", nil, nil},
     textColoringHealth = {false, "checkbox", nil, "textShow", "Text", 10, "Color text based on health percentage from white to red", nil, nil},
     textColoringResource = {false, "checkbox", nil, "textShow", "Text", 11, "Color text based on resource (mana/rage/energy) percentage from white to red", nil, nil},
-    frameFont = {"Prototype", "dropdown", {
+    frameFont = {"FRIZQT__.TTF", "dropdown", {
         "FRIZQT__.TTF",
         "Expressway",
         "Homespun",
